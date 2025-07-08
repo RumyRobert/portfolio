@@ -1,0 +1,14 @@
+Using:
+    -python 3.12
+    -python-nmap
+    -flask
+    -jinja2
+    -mysql-connector-python
+
+To connect to the database use these details
+
+Server: sql11.freemysqlhosting.net
+Name: sql11689974
+Username: sql11689974
+Password: x9RMRjnASB
+Port number: 3306

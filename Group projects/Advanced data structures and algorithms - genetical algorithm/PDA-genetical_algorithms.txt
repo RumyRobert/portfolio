@@ -1,0 +1,1 @@
+It is important to state, in this group project, our team was only assigned to deal with the population initialization, selection and combination of robots therefore achieving the "best" robot. These codes conclude of the following: Combine.py, PopulationInitialization*.py, EXTrunner.py

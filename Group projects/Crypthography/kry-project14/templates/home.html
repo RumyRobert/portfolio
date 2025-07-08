@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+
+<!--    <h2>Enter host address to scan host or enter network address to discover hosts in network</h2>-->
+    <h2>Enter network address to scan all hosts in network</h2>
+
+    <br>
+    <form action="/execute_scan" method="post">
+<!--        <input type="text" name="target" placeholder="192.168.0.1 or 192.168.0.0/24">-->
+        <input type="text" name="target" placeholder="192.168.0.0/24">
+
+        <br>
+        <button type="submit">Scan</button>
+    </form>
+</body>
+</html>
